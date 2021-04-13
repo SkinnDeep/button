@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-color: darkcyan;
+}
+
+h1, footer {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 7rem;
+    color: azure;
+    text-shadow: 3px 0 crimson;
+}
+
+footer,a {
+    font-size: 1rem;
+    color: azure;
+    text-decoration: none;
+}
+
+.set {
+    margin: 10%;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 floralwhite;
+    opacity: 50%;
+}
+
+.red {
+    color: crimson;
+}
+
+.drum {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 200%;
+    font-family: sans-serif;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 45px;
+    display: inline-block;
+    width: 450px;
+    height: 450px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}

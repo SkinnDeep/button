@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>BIB</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="theme-color" content="#018a8b" />
+    <link rel="manifest" href="manifest.json">
+
+
+    <script>
+        //if browser supports service worker
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js');
+        };
+    </script>
+    
+</head>
+<body>
+    <h1 class="title">Press the Button!</h1>
+    <div class="set" >
+        <button class="q drum">Bib</button>
+    </div>
+</body>
+<footer>
+    <a href="https://www.youtube.com/watch?v=iik25wqIuFo">Made by King of Bibs</a>
+    <script src="sounds.js"></script>
+</footer>
+</html>
