@@ -3,17 +3,17 @@
     "name": "BibButton",
     "icons": [
         {
-            "src": "/images/icon1.png",
+            "src": "icon1.png",
             "type": "image/png",
             "sizes": "144x 144"
         },
         {
-            "src": "/images/icon96.jpg",
+            "src": "icon96.jpg",
             "type": "image/jpeg",
             "sizes": "96x 96"
         },
         {
-            "src": "/images/icon192.jpg",
+            "src": "icon192.jpg",
             "type": "image/jpeg",
             "sizes": "192x 192"
 
