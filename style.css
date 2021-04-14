@@ -37,7 +37,7 @@ footer,a {
     border: 10px solid #404B69;
     font-size: 300%;
     font-family: sans-serif;
-    line-height: 2;
+    line-height: 7;
     font-weight: 900;
     color: #DA0463;
     text-shadow: 3px 0 #DBEDF3;
@@ -53,9 +53,19 @@ footer,a {
 #counter {
 	text-align: center;
 	margin-top: 40px;
-	font-size: 20px;
     font-size: 1.5rem;
     color: azure;
     font-family: sans-serif;
-    text-decoration: none;
 }
+
+#button1 {
+    background-color: white;
+    border: none;
+    color: #DA0463;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: sans-serif;
+  }

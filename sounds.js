@@ -21,6 +21,6 @@ function play() {
   for (let i = 0; i < buttons.length; i++) {
     buttons[i].addEventListener("click", function () {
         i++;
-        var cowClick = document.getElementById("counter").innerHTML = "Bib Counter = " + i;
+        var cowClick = document.getElementById("counter").innerHTML = "Counter = " + i;
     })
 };
