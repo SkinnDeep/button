@@ -8,13 +8,13 @@ h1, footer {
 }
 
 h1 {
-    font-size: 7rem;
+    font-size: 6rem;
     color: azure;
     text-shadow: 3px 0 crimson;
 }
 
 footer,a {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: azure;
     text-decoration: none;
 }
@@ -35,7 +35,7 @@ footer,a {
 .drum {
     outline: none;
     border: 10px solid #404B69;
-    font-size: 200%;
+    font-size: 600%;
     font-family: sans-serif;
     line-height: 2;
     font-weight: 900;

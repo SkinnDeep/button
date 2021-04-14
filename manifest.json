@@ -3,9 +3,20 @@
     "name": "BibButton",
     "icons": [
         {
-            "src": "/images/icon1.png",
+            "src": "images/icon1.png",
             "type": "image/png",
             "sizes": "144x 144"
+        },
+        {
+            "src": "images/icon96.jpg",
+            "type": "image/jpg",
+            "sizes": "96x 96"
+        },
+        {
+            "src": "images/icon192.jpg",
+            "type": "image/jpg",
+            "sizes": "192x 192"
+
         }
     ],
     "start_url": "/index.html",
