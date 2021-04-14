@@ -1,8 +1,7 @@
 # BibButton
 A fun website made by KingBib. Original idea is from: ziyangll
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=success&up_message=online&url=https%3A%2F%2Fziyangll.github.io%2FBruhButton%2F)](https://ziyangll.github.io/BruhButton/)
-[![GitHub language count](https://img.shields.io/github/languages/count/ziyangll/BruhButton)](https://ziyangll.github.io/BruhButton/)
-[![GitHub top language](https://img.shields.io/github/languages/top/ziyangll/BruhButton)](https://ziyangll.github.io/BruhButton/)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=success&up_message=online&url=https%3A%2F%2Fhttps://kingbib.github.io/%2BibButton%2F)](https://kingbib.github.io/)
+[![GitHub top language](https://img.shields.io/github/languages/top/KingBib/KingBib.github.io)](https://kingbib.github.io/)
 
-A soundboard website built with HTML, CSS, and JavaScript.
+Built with HTML, CSS, and JavaScript.
