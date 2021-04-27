@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kingbib.github.io
+Token: 09e5739d61c7d0610651a26562c9e868f46e1e173edbf32bb95de17d75b1b1e7
