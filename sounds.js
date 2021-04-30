@@ -24,3 +24,18 @@ function play() {
         var cowClick = document.getElementById("counter").innerHTML = "Counter = " + i;
     })
 };
+
+
+//Close tab confirmation
+
+function onBeforeUnload(e) {
+    if (thereAreUnsavedChanges()) {
+        e.preventDefault();
+        e.returnValue = '';
+        return;
+    }
+
+    delete e['returnValue'];
+}
+
+window.addEventListener('beforeunload', onBeforeUnload);
