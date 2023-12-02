@@ -1,4 +1,4 @@
 # BibButton
-A fun website made by KingBib. Original idea is from Ziyangll
+A fun website made a while back. Original idea is from Ziyangll
 
 Built with HTML, CSS, and JavaScript.
