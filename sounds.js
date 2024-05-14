@@ -11,7 +11,7 @@ for (let i = 0; i < buttons.length; i++) {
 //RickRoll Audio
 
 function play() {
-    var audio = new Audio('https://docs.google.com/file/d/0B-klwLEjaXWcZHR5SmJJWEwtYnc/edit?resourcekey=0-D33DYWMxjVde0g1m7qsoZw');
+    var audio = new Audio('https://dn720309.ca.archive.org/0/items/official-rickroll-download-pls-dont-give-me-copyright-strike/Official%20Rickroll%20Download%20(Pls%20don't%20give%20me%20copyright%20strike).mp3');
     audio.play();
 }
 
