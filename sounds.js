@@ -11,7 +11,7 @@ for (let i = 0; i < buttons.length; i++) {
 //RickRoll Audio
 
 function play() {
-    var audio = new Audio('https://www.soundboard.com/handler/DownLoadTrack.ashx?cliptitle=Never+Gonna+Give+You+Up-+Original&filename=mz/Mzg1ODMxNTIzMzg1ODM3_JzthsfvUY24.MP3');
+    var audio = new Audio('https://docs.google.com/file/d/0B-klwLEjaXWcZHR5SmJJWEwtYnc/edit?resourcekey=0-D33DYWMxjVde0g1m7qsoZw');
     audio.play();
 }
 
